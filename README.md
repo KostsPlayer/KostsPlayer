@@ -5,7 +5,7 @@ I'm a passionate student of **Informatics Engineering** and an aspiring **web de
 
 ## 🚀 About Me
 - 🌱 Currently learning **React.js**, **SCSS**, and improving my **web development** skills.
-- 🛠️ Working on a project: **Shopify-Bliss**, a Shopify-based e-commerce platform using **React.js**.
+- 🛠️ Working on a project: **Shopify-Bliss**, an e-commerce platform using **React.js**.
 - 🎓 Informatics Engineering student with a drive to learn and improve.
 - 💡 Always open to new ideas and opportunities for collaboration.
 
@@ -19,16 +19,19 @@ Here are some of the technologies I've been working with:
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ## 📂 Projects
 Here are some of the projects I'm currently working on:
 
 ### 🛍️ Shopify-Bliss
-- A **React.js** project for building a Shopify-powered e-commerce store.
+- A **React.js** project for building an e-commerce store.
 - **Features**: User authentication, shopping cart, product management, and responsive design.
-- **Tools**: React.js, SCSS, Shopify API, Fetch API, and more.
+- **Tools**: React.js, SCSS, Fetch API, Node.js, Express, MySQL, Supabase, and more.
 
 > 💡 Check out my repositories to see the code and progress on my projects!
 
