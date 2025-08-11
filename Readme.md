@@ -36,9 +36,9 @@ Here are some of the projects I'm currently working on:
 > 💡 Check out my repositories to see the code and progress on my projects!
 
 ## 🌐 How to Reach Me
-- **Email**: kostsplayer@example.com
-- **LinkedIn**: [KostsPlayer](https://www.linkedin.com/in/kostsplayer)
-- **Portfolio**: [kostsplayer.dev](https://kostsplayer.dev)
+- **Email**: playerskost@gmail.com
+- **LinkedIn**: [KostsPlayer]([https://www.linkedin.com/in/kostsplayer](https://www.linkedin.com/in/kosts-player-b811a0350/))
+- **Portfolio**: [kostsplayer](https://kostsplayer.vercel.app/)
 
 ## 💬 Fun Facts
 - ⚽ I love playing and watching football!
